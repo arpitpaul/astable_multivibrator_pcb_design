@@ -1,0 +1,40 @@
+Netlist
+
+Exported from 555_astable_multivibrator.brd at 22-06-2023 20:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V       C1       1
+         IC1      2
+         IC1      6
+         R2       1
+
+GND      C1       2
+         C2       2
+         IC1      1
+         IC2      2
+         LED1     K
+
+N$1      IC1      7
+         R1       1
+         R2       2
+
+N$2      IC2      3
+         J1       1
+
+N$3      C2       1
+         IC1      5
+
+N$4      IC1      3
+         R3       2
+
+N$5      LED1     A
+         R3       1
+
+VIN      IC1      4
+         IC1      8
+         IC2      1
+         R1       2
+

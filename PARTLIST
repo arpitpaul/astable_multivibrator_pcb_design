@@ -1,0 +1,19 @@
+Partlist
+
+Exported from 555_astable_multivibrator.brd at 22-06-2023 20:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package      Library  Position (mm)         Orientation
+
+C1       1uf            C050-024X044 rcl      (53.975 35.56)        R90
+C2       0.01uf         C050-024X044 rcl      (53.975 22.86)        R270
+IC1      LM555N         DIL08        linear   (39.37 30.48)         R270
+IC2      78L05Z         TO92         linear   (20.32 45.72)         R0
+J1       DCJ0202        DCJ0202      con-jack (11.43 33.655)        R270
+LED1     5mm            LED5MM       led      (42.545 12.7)         R0
+R1       1M             0207/2V      rcl      (26.035 37.465)       R180
+R2       1M             0207/2V      rcl      (26.035 30.48)        R180
+R3       1k             0207/2V      rcl      (26.035 22.86)        R180
